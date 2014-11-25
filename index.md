@@ -4,14 +4,12 @@ layout: default
 
 # Pod..what?! Podcast!
 
-Podcasting is a way to distribute audio files<sup>1</sup> through the internet. With the right app you
+Podcasting is a way to distribute media files through the internet. With the right app you
 can listen to your favourite audio book, audio drama, interview or radio show whenever you want.
 On demand. Listen on your way to work, in the subway, in your car, or at home while cleaning your apartment.
 
 And the best thing about it: most apps download the files and let you listen to them even
 when you don't have a good internet connection on your phone. You can even listen on the train!
-
-<small>1) Also video files and other content, but let's focus on the audio part.</small>
 
 # What type of content is available?
 
